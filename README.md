@@ -44,7 +44,8 @@ https://brunokrinski.github.io/awesome-data-augmentation/Links to an external si
 
 j)_ use keras cv data augmentation https://keras.io/keras_cv/ in colabLinks to an external site.
 
- 
+
+Google colab link for A to J:  https://colab.research.google.com/drive/1Cb8JRivOWg60i_SYCUwKr5IGaBO3PFuo?usp=sharing
 
  
 
@@ -54,8 +55,14 @@ or https://github.com/facebookresearch/AugLyLinks to an external site. (best)htt
 
 https://www.tensorflow.org/tutorials/images/data_augmentationLinks to an external site.
 
+
+
+Google colab link: https://colab.research.google.com/github/ChirudeepG/CMPE-258_Assignment4/blob/main/Data_Augmentation_%26_Classification.ipynb
  
 
 l) Demonstrate fastai data augmentation capablities 
 
 hint: https://github.com/fastai/fastbook/blob/master/07_sizing_and_tta.ipynbLinks to an external site.
+
+
+Google colab link: https://colab.research.google.com/github/ChirudeepG/CMPE-258_Assignment4/blob/main/fastai_data_augmentation_capablities_.ipynb
